@@ -1,0 +1,4 @@
+customer_id,family_name,given_name,loyalty_number,contact_number,email_address,points_balance
+1,Roronoa,Zoro,04015420837388493406,(516)-684-2534,zroronoa@gmail.com,320
+2,Vinsmoke,Sanji,01840892337029922967,(408)-759-9818,svinsmoke@gmail.com,177
+3,Monkey,Luffy,68172689436103654588,(828)-604-8898,lmonkey@gmail.com,500
