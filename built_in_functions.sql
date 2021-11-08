@@ -10,6 +10,8 @@ SELECT
 FROM
     book_store.employees;
 
+DELETE FROM `book_store`.`employees` WHERE (`employee_id` = '6');
+
 # count function
 SELECT 
     COUNT(*) AS number_of_loyalty_customers
